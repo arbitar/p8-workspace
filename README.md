@@ -2,6 +2,8 @@
 
 I just want VS Code to look and act like the PICO-8 code editor.
 
+![preview after application](https://raw.githubusercontent.com/arbitar/p8-workspace/master/.vscode/preview.gif)
+
 Nothing too fancy, I like the experience as it is... but just with more vertical space. And maybe the ability to split tabs. And maybe a better search/replace.
 
 So, I started editing. Everything is in the .vscode/ directory. You can download a ZIP of this repository and extract it to where you'd like to work on PICO-8 carts. There is some manual setup, outlined below, but after you finish that, it will take effect automatically anytime you open the directory containing the .vscode folder.
