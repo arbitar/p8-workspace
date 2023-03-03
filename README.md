@@ -11,12 +11,12 @@ So, I started editing. Everything is in the .vscode/ directory. You can download
 This is largely just a collection of other people's utilities, tied together with an ugly settings.json file. I hope it's helpful.
 
 # Quick Install
-1. Download ZIP of this repo. Unzip wherever you'd like to work on P8 carts.  
-2. Install Pico-8 font by RhythmLynx: ./vscode/pico_8.ttf
+1. [Download ZIP](https://github.com/arbitar/p8-workspace/archive/refs/heads/master.zip) of this repo. Unzip wherever you'd like to work on P8 carts.  
+2. Install Pico-8 font by RhythmLynx: [./vscode/pico_8.ttf](https://raw.githubusercontent.com/arbitar/p8-workspace/master/.vscode/pico_8.ttf)
 3. Install 2 VS Code extensions:  
   \-> [pico8-vscode by John Barton](https://marketplace.visualstudio.com/items?itemName=johob.pico8-vscode)  
   \-> [Insert Unicode by brunnerh](https://marketplace.visualstudio.com/items?itemName=brunnerh.insert-unicode)
-4. Copy contents of .vscode/keybindings.json into your global keybindings -- **right before the final `]`**!
+4. Copy contents of [.vscode/keybindings.json](https://raw.githubusercontent.com/arbitar/p8-workspace/master/.vscode/keybindings.json) into your global keybindings -- **right before the final `]`**!
 	- Access via Ctrl+Shift+P > "Preferences: Open Keyboard Shortcuts (JSON)"
 5. Open directory (with this README.md) in vs code
 6. Enjoy!
