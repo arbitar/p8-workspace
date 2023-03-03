@@ -74,12 +74,26 @@
 		"numbers": "#29ADFF",
 		"strings": "#29ADFF",
 		"variables": "#fff1e8",
-		"textMateRules": [{
-			"scope": "keyword.operator",
-			"settings": {
-				"foreground": "#fff1e8"
+		"textMateRules": [
+			{
+				"scope": "keyword.operator",
+				"settings": {
+					"foreground": "#fff1e8"
+				},
+			},
+			{
+				"scope": "variable.language.self.lua",
+				"settings": {
+					"foreground": "#fff1e8"
+				}
+			},
+			{
+				"scope": "constant.language.lua",
+				"settings": {
+					"foreground": "#29ADFF"
+				}
 			}
-		}]
+		]
 	},
 	"insert-unicode.favorites": {
 		"directories": {},
