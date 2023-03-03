@@ -88,5 +88,7 @@
 	"editor.tabSize": 1,
 	"editor.detectIndentation": false,
 	"editor.bracketPairColorization.enabled": false,
-	"editor.cursorStyle": "block"
+	"editor.cursorStyle": "block",
+	"gitlens.currentLine.enabled": false,
+	"editor.renderLineHighlight": "none"
 }
