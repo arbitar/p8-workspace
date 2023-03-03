@@ -1,4 +1,3 @@
-[
   // pico-8 suggestions
   {
     "key": "shift+a",
@@ -156,4 +155,3 @@
     "args": "square with vertical fill",
     "when": "editorLangId == pico8"
   }
-]
