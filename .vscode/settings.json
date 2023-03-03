@@ -1,0 +1,91 @@
+{
+	// set ruler to pico-8 screen width
+	"editor.rulers": [
+		32
+	],
+
+	"pico8keys.enabled": true,
+
+	// use pico-8 font, but not for the terminal!
+	"editor.fontFamily": "'P8', 'monospace', monospace",
+	"terminal.integrated.fontFamily": "Source Code Pro, Consolas, 'Courier New', monospace",
+
+	// disable annoying stuff
+	"breadcrumbs.enabled": false,
+	"workbench.editor.decorations.colors": false,
+	"workbench.editor.showIcons": false,
+
+	// change a buncha colors around to theme us like the pico-8
+	"workbench.colorCustomizations": {
+		"editor.background": "#1d2b53",
+		"editor.foreground": "#c2c3c7",
+		"editorLineNumber.activeForeground": "#ff004d",
+		"editorLineNumber.foreground": "#7e2553",
+		"sideBar.background": "#1d2b53",
+		"sideBar.border": "#ff004d",
+		"sideBar.foreground": "#ff004d",
+		"titleBar.inactiveBackground": "#ff004d",
+		"titleBar.activeBackground": "#ff004d",
+		"titleBar.inactiveForeground": "#7e2553",
+		"titleBar.activeForeground": "#fff1e8",
+		"statusBar.background": "#ff004d",
+		"statusBar.foreground": "#fff1e8",
+		"activityBar.background": "#ff004d",
+		"activityBar.foreground": "#fff1e8",
+		"activityBar.inactiveForeground": "#fff1e8",
+		"tab.activeBackground": "#fff1e8",
+		"tab.activeForeground": "#ff004d",
+		"tab.inactiveBackground": "#FF77A8",
+		"tab.inactiveForeground": "#ff004d",
+		"tab.border": "#ff004d",
+		"editorGroupHeader.tabsBackground": "#ff004d",
+		"editorGroupHeader.tabsBorder": "#ff004d",
+		"tab.activeModifiedBorder": "#ff004d",
+		"tab.inactiveModifiedBorder": "#ff004d",
+		"tab.unfocusedActiveModifiedBorder": "#ff004d",
+		"tab.unfocusedInctiveModifiedBorder": "#ff004d",
+		"editor.selectionBackground": "#ffec27",
+		"editorCursor.foreground": "#ff004d",
+		"input.background": "#ff004d",
+		"input.foreground": "#fff1e8",
+		"input.border": "#ff004d",
+		"editorWidget.background": "#ff004d",
+		"editorWidget.foreground": "#fff1e8",
+		"statusBarItem.remoteBackground": "#ff004d",
+		"statusBarItem.remoteForeground": "#fff1e8"
+	},
+
+	"gitlens.blame.toggleMode": "window",
+
+	// change some token color preferences
+	"editor.tokenColorCustomizations": {
+		"comments": {
+			"fontStyle": "",
+			"foreground": "#83769c"
+		},
+		"functions": {
+			"fontStyle": "",
+			"foreground": "#ff77a8"
+		},
+		"keywords": {
+			"fontStyle": "",
+			"foreground": "#ff77a8"
+		},
+		"numbers": "#29ADFF",
+		"strings": "#29ADFF",
+		"variables": "#fff1e8",
+		"textMateRules": [{
+			"scope": "keyword.operator",
+			"settings": {
+				"foreground": "#fff1e8"
+			}
+		}]
+	},
+	"insert-unicode.favorites": {
+		"directories": {},
+		"items": []
+	},
+	"editor.tabSize": 1,
+	"editor.detectIndentation": false,
+	"editor.bracketPairColorization.enabled": false
+}

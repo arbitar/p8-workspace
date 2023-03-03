@@ -1,0 +1,159 @@
+[
+  // pico-8 suggestions
+  {
+    "key": "shift+a",
+    "command": "insert-unicode.insertTextExact",
+    "args": "full block",
+    "when": "editorLangId == pico8"
+  },
+  {
+    "key": "shift+b",
+    "command": "insert-unicode.insertTextExact",
+    "args": "medium shade",
+    "when": "editorLangId == pico8"
+  },
+  {
+    "key": "shift+c",
+    "command": "insert-unicode.insertTextExact",
+    "args": "cat face",
+    "when": "editorLangId == pico8"
+  },
+  {
+    "key": "shift+d",
+    "command": "insert-unicode.insertTextExact",
+    "args": "down arrow",
+    "when": "editorLangId == pico8"
+  },
+  {
+    "key": "shift+e",
+    "command": "insert-unicode.insertTextExact",
+    "args": "light shade",
+    "when": "editorLangId == pico8"
+  },
+  {
+    "key": "shift+f",
+    "command": "insert-unicode.insertTextExact",
+    "args": "heavy teardrop-spoked asterisk",
+    "when": "editorLangId == pico8"
+  },
+  {
+    "key": "shift+g",
+    "command": "insert-unicode.insertTextExact",
+    "args": "black circle",
+    "when": "editorLangId == pico8"
+  },
+  {
+    "key": "shift+h",
+    "command": "insert-unicode.insertTextExact",
+    "args": "black heart suit",
+    "when": "editorLangId == pico8"
+  },
+  {
+    "key": "shift+i",
+    "command": "insert-unicode.insertTextExact",
+    "args": "sun",
+    "when": "editorLangId == pico8"
+  },
+  {
+    "key": "shift+j",
+    "command": "insert-unicode.insertCodeExact",
+    "args": "c6c3",
+    "when": "editorLangId == pico8"
+  },
+  {
+    "key": "shift+k",
+    "command": "insert-unicode.insertTextExact",
+    "args": "house",
+    "when": "editorLangId == pico8"
+  },
+  {
+    "key": "shift+l",
+    "command": "insert-unicode.insertTextExact",
+    "args": "left arrow",
+    "when": "editorLangId == pico8"
+  },
+  {
+    "key": "shift+m",
+    "command": "insert-unicode.insertTextExact",
+    "args": "neutral face",
+    "when": "editorLangId == pico8"
+  },
+  {
+    "key": "shift+n",
+    "command": "insert-unicode.insertTextExact",
+    "args": "eighth note",
+    "when": "editorLangId == pico8"
+  },
+  {
+    "key": "shift+o",
+    "command": "insert-unicode.insertTextExact",
+    "args": "o button (blood type)",
+    "when": "editorLangId == pico8"
+  },
+  {
+    "key": "shift+p",
+    "command": "insert-unicode.insertTextExact",
+    "args": "black diamond",
+    "when": "editorLangId == pico8"
+  },
+  {
+    "key": "shift+q",
+    "command": "insert-unicode.insertTextExact",
+    "args": "horizontal ellipsis",
+    "when": "editorLangId == pico8"
+  },
+  {
+    "key": "shift+r",
+    "command": "insert-unicode.insertTextExact",
+    "args": "right arrow",
+    "when": "editorLangId == pico8"
+  },
+  {
+    "key": "shift+s",
+    "command": "insert-unicode.insertTextExact",
+    "args": "black star",
+    "when": "editorLangId == pico8"
+  },
+  {
+    "key": "shift+t",
+    "command": "insert-unicode.insertTextExact",
+    "args": "black hourglass",
+    "when": "editorLangId == pico8"
+  },
+  {
+    "key": "shift+u",
+    "command": "insert-unicode.insertTextExact",
+    "args": "up arrow",
+    "when": "editorLangId == pico8"
+  },
+  {
+    "key": "shift+v",
+    "command": "insert-unicode.insertTextExact",
+    "args": "caron",
+    "when": "editorLangId == pico8"
+  },
+  {
+    "key": "shift+w",
+    "command": "insert-unicode.insertTextExact",
+    "args": "logical and",
+    "when": "editorLangId == pico8"
+  },
+  {
+    "key": "shift+x",
+    "command": "insert-unicode.insertTextExact",
+    "args": "negative squared cross mark",
+    "when": "editorLangId == pico8"
+  },
+  {
+    "key": "shift+y",
+    "command": "insert-unicode.insertTextExact",
+    "args": "square with horizontal fill",
+    "when": "editorLangId == pico8"
+  },
+  {
+    "key": "shift+z",
+    "command": "insert-unicode.insertTextExact",
+    "args": "square with vertical fill",
+    "when": "editorLangId == pico8"
+  }
+]
