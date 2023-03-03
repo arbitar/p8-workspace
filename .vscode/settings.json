@@ -87,5 +87,6 @@
 	},
 	"editor.tabSize": 1,
 	"editor.detectIndentation": false,
-	"editor.bracketPairColorization.enabled": false
+	"editor.bracketPairColorization.enabled": false,
+	"editor.cursorStyle": "block"
 }
